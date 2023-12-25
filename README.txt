@@ -1,1 +1,1 @@
-﻿armine1002
+Create a database for storing user information. In this database it will store the user’s username and credit. Writing to the database will happen via an AJAX request after every credit update. Able to login with a specific username on different computers (or browsers) and see the current credit. The correct password is Immutable.
